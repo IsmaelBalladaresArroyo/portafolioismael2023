@@ -34,12 +34,38 @@ function efectoHabilidades() {
     if (distancia_skills >= 300) {
         document.getElementById("html").classList.add("barra-progreso1");
         document.getElementById("js").classList.add("barra-progreso2");
-        document.getElementById("bd").classList.add("barra-progreso3");
+        document.getElementById("sq").classList.add("barra-progreso3");
         document.getElementById("rt").classList.add("barra-progreso4");
-        document.getElementById("ad").classList.add("barra-progreso5");
+        document.getElementById("py").classList.add("barra-progreso5");
         document.getElementById("bc").classList.add("barra-progreso6");
         document.getElementById("mv").classList.add("barra-progreso7");
         document.getElementById("wp").classList.add("barra-progreso8");
+        document.getElementById("se").classList.add("barra-progreso9");
+        document.getElementById("dj").classList.add("barra-progreso10");
+        document.getElementById("sb").classList.add("barra-progreso11");
+        document.getElementById("nt").classList.add("barra-progreso12");
+        document.getElementById("ag").classList.add("barra-progreso13");
+        document.getElementById("ph").classList.add("barra-progreso14");
+        document.getElementById("st").classList.add("barra-progreso15");
+        document.getElementById("kt").classList.add("barra-progreso16");
+        document.getElementById("jv").classList.add("barra-progreso17");
+        document.getElementById("ft").classList.add("barra-progreso18");
+        document.getElementById("bs").classList.add("barra-progreso19");
+        document.getElementById("ms").classList.add("barra-progreso20");
+        document.getElementById("md").classList.add("barra-progreso21");
+        document.getElementById("or").classList.add("barra-progreso22");
+        document.getElementById("aw").classList.add("barra-progreso23");
+        document.getElementById("mo").classList.add("barra-progreso24");
+        document.getElementById("pb").classList.add("barra-progreso25");
+        document.getElementById("me").classList.add("barra-progreso26");
+        document.getElementById("gi").classList.add("barra-progreso27");
+        document.getElementById("pt").classList.add("barra-progreso28");
+        document.getElementById("do").classList.add("barra-progreso29");
+        document.getElementById("fg").classList.add("barra-progreso30");
+        document.getElementById("cb").classList.add("barra-progreso31");
+        document.getElementById("ct").classList.add("barra-progreso32");
+        document.getElementById("cv").classList.add("barra-progreso33");
+
     }
 
 }

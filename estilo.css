@@ -384,7 +384,156 @@
             height: 6px;
             animation: progreso8 2s forwards;
         }
-
+        .contenedor-skills .skill .barra .barra-progreso9{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso9 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso10{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso10 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso11{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso11 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso12{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso12 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso13{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso13 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso14{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso14 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso15{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso15 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso16{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso16 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso17{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso17 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso18{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso18 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso19{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso19 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso20{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso20 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso21{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso21 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso22{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso22 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso23{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso23 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso24{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso24 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso25{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso25 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso26{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso26 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso27{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso27 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso28{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso28 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso29{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso29 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso30{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso30 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso31{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso31 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso32{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso32 2s forwards;
+        }
+        .contenedor-skills .skill .barra .barra-progreso33{
+            background-color: #fff;
+            width: 100%;
+            height: 6px;
+            animation: progreso33 2s forwards;
+        }
         @keyframes progreso1 {
             0% {
                 width: 0;
@@ -399,7 +548,7 @@
                 width: 0;
             }
             100% {
-                width: 40%;
+                width: 50%;
             }
         }
         
@@ -417,7 +566,7 @@
                 width: 0;
             }
             100% {
-                width: 30%;
+                width: 40%;
             }
         }
         @keyframes progreso5 {
@@ -425,7 +574,7 @@
                 width: 0;
             }
             100% {
-                width: 25%;
+                width: 60%;
             }
         }
         @keyframes progreso6 {
@@ -433,7 +582,7 @@
                 width: 0;
             }
             100% {
-                width: 20%;
+                width: 50%;
             }
         }
         @keyframes progreso7 {
@@ -441,7 +590,7 @@
                 width: 0;
             }
             100% {
-                width: 40%;
+                width: 50%;
             }
         }
         @keyframes progreso8 {
@@ -450,6 +599,206 @@
             }
             100% {
                 width: 60%;
+            }
+        }
+        @keyframes progreso9 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso10 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 40%;
+            }
+        }
+        @keyframes progreso11 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 40%;
+            }
+        }
+        @keyframes progreso12 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso13 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 30%;
+            }
+        }
+        @keyframes progreso14 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 60%;
+            }
+        }
+        @keyframes progreso15 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 40%;
+            }
+        }
+        @keyframes progreso16 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 40%;
+            }
+        }
+        @keyframes progreso17 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 60%;
+            }
+        }
+        @keyframes progreso18 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 40%;
+            }
+        }
+        @keyframes progreso19 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 60%;
+            }
+        }
+        @keyframes progreso20 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 70%;
+            }
+        }
+        @keyframes progreso21 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso22 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso23 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso24 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 60%;
+            }
+        }
+        @keyframes progreso25 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso26 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 30%;
+            }
+        }
+        @keyframes progreso27 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso28 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso29 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 30%;
+            }
+        }
+        @keyframes progreso30 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso31 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 50%;
+            }
+        }
+        @keyframes progreso32 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 70%;
+            }
+        }
+        @keyframes progreso33 {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 100%;
             }
         }
         /* *********************/
