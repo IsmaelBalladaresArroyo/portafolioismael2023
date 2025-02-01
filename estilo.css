@@ -1,9 +1,18 @@
-        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600&display=swap');
+*{
+
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600&display=swap');
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Montserrat';
+            --color-primario: #436963;
+            --color-secundario: #39b54a;
+            --color-terciario: #ffffff;
         }
         
         html {
@@ -39,7 +48,7 @@
         
         #inicio .contenido header .contenido-header h1 {
             text-align: center;
-            color: #FFB36C;
+            color: var(--color-secundario);
         }
         
         #inicio .contenido header .contenido-header nav ul {
@@ -57,7 +66,7 @@
         }
         
         #inicio .contenido header .contenido-header nav ul li a:hover {
-            color: #FFB36C;
+            color: var(--color-secundario);
         }
         
         #inicio .contenido header .contenido-header .redes a {
@@ -69,11 +78,11 @@
         }
         
         #inicio .contenido header .contenido-header .redes a:hover {
-            color: #FFB36C;
+            color: var(--color-secundario);
         }
         
         #inicio .contenido header .contenido-header .seleccionado {
-            color: #FFB36C;
+            color: var(--color-secundario);
         }
         
         #inicio .contenido .presentacion {
@@ -102,7 +111,7 @@
         
         #inicio .contenido .presentacion h2 span {
             font-size: 25px;
-            color: #FFB36C;
+            color: var(--color-secundario);
         }
         
         #inicio .contenido .presentacion .descripcion {
@@ -126,7 +135,7 @@
         }
         
         #inicio .contenido .presentacion a:hover {
-            background-color: #FFB36C;
+            background-color: var(--color-secundario);
         }
         
         #icono-nav {
@@ -178,7 +187,7 @@
         }
         
         #sobremi .sobremi h2 span {
-            color: #FFB36C;
+            color: var(--color-secundario);
         }
         .descripcion span{
             color: #00ABEC;
@@ -217,7 +226,7 @@
         }
         
         #sobremi .sobremi a:hover {
-            background-color: #FFB36C;
+            background-color: var(--color-secundario);
             color: #fff;
         }
         /* *********************/
@@ -298,7 +307,7 @@
         /* *********************/
         
         .contenedor-skills {
-            background: linear-gradient( #eb5a5acc, rgba(33, 16, 16, 0.8)), url("img/fondo-skills.jpg");
+            background: linear-gradient( var(--color-primario), rgba(16, 33, 19, 0.8)), url("img/fondo-skills.jpg");
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: cover;
@@ -880,7 +889,7 @@
             position: absolute;
             left: 0px;
             background-color: rgba(0, 0, 0, 0.8);
-            color: #FFB36C;
+            color: var(--color-secundario);
             width: 100%;
             padding: 10px;
             opacity: 0;
@@ -954,7 +963,7 @@
         }
         
         #contacto .btn-enviar:hover {
-            background-color: #FFB36C;
+            background-color: var(--color-secundario);
             color: #fff;
         }
         /* *********************/
